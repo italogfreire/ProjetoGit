@@ -1,1 +1,1 @@
-Olá, tudo bem? Esse projeto se trata de um currículo simplificado, utilizando apenas conhecimentos básicos de HTML e CSS, afim de realizar o primeiro commit.
+Olaaaaa, tudo bem? Esse projeto se trata de um currículo simplificado, utilizando apenas conhecimentos básicos de HTML e CSS, afim de realizar o primeiro commit.
