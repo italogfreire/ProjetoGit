@@ -6,13 +6,24 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    
+}
+
+.photo{
+   text-align: center;
 }
 
 .titulos{
     background-color: black;
     color: red;
-   padding: 6px;
-      
+    padding: 6px;
+    text-align: center;   
+}
+
+
+.dados,.objetivos{
+    margin-left: 6px ;
+    padding-left: 6px;
 }
 
 
